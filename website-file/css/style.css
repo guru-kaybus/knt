@@ -4934,7 +4934,7 @@ Contact
 }
 
 .form-wrapper textarea {
-   
+
     font-size: 12px;
     resize: none;
 }
@@ -5702,6 +5702,7 @@ h4 {
 h5 {
     font-size: 16px;
     line-height: 22px;
+    margin-bottom: 5px;
 }
 
 h6 {
@@ -8065,7 +8066,7 @@ Social icons
                         border: none;
                         box-shadow: none;
                         background-color: transparent;
-                        margin: 0;                        
+                        margin: 0;
                     }
                    &:hover{
                         border: none;
@@ -8543,7 +8544,11 @@ Testimonial
 
 .blink_third {
     color:yellow;
-} 
+}
 .boldfont{
 	font-weight:bold;
+}
+
+.section {
+  margin-top: 15px;
 }
