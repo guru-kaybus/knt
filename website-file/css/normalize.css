@@ -318,6 +318,8 @@ nav ol {
 
 img {
     border: 0; /* 1 */
+    width: 300px;
+    height: auto;
     -ms-interpolation-mode: bicubic; /* 2 */
 }
 
